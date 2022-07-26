@@ -1,4 +1,4 @@
-## Uplift Modelling for Synthetic Dataset with 5 Confounders
+## Uplift Modelling for Dataset with 5 Confounders
 ### Results:
 - 'train_result_x5.csv' is the training result and the comparison with baseline performance
 - 'valid_result_x5.csv' is the validation result and the comparison with baseline performance
