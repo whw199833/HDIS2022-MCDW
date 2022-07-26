@@ -1,4 +1,4 @@
-This is the `Datasets`, `Notebooks` and `Results` for the synthetic data with 5 confounders / 9 confounders / 20 confounders.
+This is the `Datasets`, `Notebooks` and `Results` for the `generate_data` with 5 confounders / 9 confounders / 20 confounders.
 
 ## Datasets
 
