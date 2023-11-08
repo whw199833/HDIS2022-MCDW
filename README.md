@@ -1,8 +1,6 @@
-# Uplift-Modeling-based-on-Graph-Neural-Network-Combined-with-Causal-Weighting
+# HDIS2022 Multihead Causal Distilling Weighting Is All You Need for Uplift Modeling
 
-# ISEAE2023-Constrained-Time-Series-Prediction
-
-This is the code implementation for the paper [`Uplift Modeling based on Graph Neural Network Combined with Causal Weighting`](https://ieeexplore.ieee.org/abstract/document/9991731)
+This is the code implementation for the paper [`Multihead Causal Distilling Weighting Is All You Need for Uplift Modeling`](https://ieeexplore.ieee.org/abstract/document/9991731)
 
 ## :wrench: Dependencies and Installation
 
